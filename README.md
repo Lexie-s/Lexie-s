@@ -98,6 +98,5 @@ Washington State Seal of Biliteracy (Spanish)
 
 ## Contact
 
-- 📧 [your email]
-- 💼 [LinkedIn]
-- 📊 [Tableau Public]
+- 📧 [lexieksmith76@gmail.com]
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexis-smith-0169101a2/) 
