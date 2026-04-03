@@ -49,21 +49,44 @@ My psychology background shapes how I approach analysis. I don't just ask what d
 
 ---
 
-### Oregon Air Quality Analysis
+### Oregon PM2.5 Air Quality Analysis
 
-**The question:** How has air quality in Oregon changed over time, and which communities face the greatest exposure risk?
+**The question:** How has PM2.5 air quality in Oregon changed over time, and which communities face the greatest exposure risk?
 
-**Why it matters:** Air quality data is public, but it's not accessible. Translating it into clear trends and geographic patterns supports both regulatory decision-making (like Oregon DEQ's monitoring programs) and community awareness.
+**Why it matters:** Air quality data is public, but it's not accessible. Translating 25 years of monitoring data into clear trends and geographic patterns supports both regulatory decision-making and community awareness.
 
-**What I did:** [Fill in: data sources, geographic scope, methods — EPA AQS data? Trend analysis? Mapping?]
+**What I did:**
+- Downloaded and processed 25 years of EPA Air Quality System (AQS) daily PM2.5 data for Oregon monitoring stations (1999–2022)
+- Built a normalized MySQL database with two tables storing readings across 47 statewide monitoring stations
+- Wrote SQL queries to analyze exceedances of the federal 35 µg/m³ standard by year, county, and season
+- Created a Power BI dashboard visualizing trends, geographic hotspots, and seasonal patterns
 
-**Key finding:** [Fill in your actual result]
+**Key findings:**
+- PM2.5 pollution in Oregon has become more intense in recent years even as total exceedance day counts fluctuated
+- Klamath, Jackson, and Lane counties show the highest exposure risk when normalized by monitoring station count
+- Winter wood smoke inversions in valley communities account for more total unhealthy days than wildfire season when measured across the full 24-year period
+- April and May had zero unhealthy air days across the entire dataset — spring is Oregon's cleanest season
+**Tools:** Python, MySQL, Power BI, SQL
 
-**Tools:** [Python / R / SQL / Tableau — fill in yours]  
-**Code:** [Link when available] | **Dashboard:** [Link when available]
+## Repository Contents
+| File | Description |
+|------|-------------|
+| `Oregon_Air_Quality_Pipeline.ipynb` | Data download, extraction, and MySQL loading pipeline |
+| `oregon_air_quality_analysis.sql` | Five analysis queries and normalized county view |
+| `dashboard_screenshot.png` | Power BI dashboard preview |
 
-> 🔧 *Project in progress — code and dashboard coming soon.*
+## Dashboard
+[View interactive dashboard](#)
 
+## Data Source
+[EPA Air Quality System (AQS) — Daily PM2.5 FRM/FEM Mass (Parameter 88101)](https://aqs.epa.gov/aqsweb/airdata/download_files.html)
+
+## Limitations
+- Counties with fewer monitoring stations may show less reliable averages due to limited sampling
+- Larger rural counties are underrepresented relative to their geographic area
+- 2023–2024 data excluded due to EPA certification lag
+
+---
 ---
 
 ### Sewing Pattern Discovery: UX Research Case Study
