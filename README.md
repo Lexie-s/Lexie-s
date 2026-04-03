@@ -4,9 +4,9 @@
 
 Hi, I'm Lexie, a data analyst with a dual background in Psychology (B.A., Eastern Washington University, Magna Cum Laude) and Data Analytics (B.S., Washington State University, 4.0 GPA). I care about data that connects to people: mental health outcomes, environmental equity, and the friction points in everyday experiences.
 
-My psychology background shapes how I approach analysis. I don't just ask *what does the data show*, I ask *what decision does this support, and for whom?* That lens shows up in every project below.
+My psychology background shapes how I approach analysis. I don't just ask what does the data show, I ask what decision does this support, and for who? That lens shows up in every project below.
 
-📄 [Resume]() | 🔗 [LinkedIn](https://www.linkedin.com/in/alexis-smith-0169101a2/) | 📊 [Tableau Public](#)
+📄 [Resume]() | 🔗 [LinkedIn](https://www.linkedin.com/in/alexis-smith-0169101a2/) |
 
 ---
 
