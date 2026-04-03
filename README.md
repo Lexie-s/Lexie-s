@@ -93,7 +93,7 @@ My psychology background shapes how I approach analysis. I don't just ask what d
 
 **The question:** Why is it so hard to find the right sewing pattern — and what would a better discovery experience look like?
 
-**Why it matters:** The sewing community is large, passionate, and underserved by existing tools. This project applies UX research methods and data analysis to a real gap in a niche but growing market — and demonstrates how human-centered design starts with listening before building.
+**Why it matters:** The sewing community is large, passionate, and underserved by existing tools. This project applies UX research methods and data analysis to a real gap in a niche but growing market, and demonstrates how human-centered design starts with listening before building.
 
 **What I did:** Designed and distributed a survey to active sewing communities (Reddit: r/sewing, r/PatternReview) to understand how people currently search for patterns, what frustrates them, and what attributes they prioritize. Synthesized responses into user insights and translated findings into a proposed app concept with wireframes in Figma.
 
