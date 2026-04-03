@@ -45,7 +45,7 @@ My psychology background shapes how I approach analysis. I don't just ask what d
   explains **96.1% of variation** in unmet need, suggesting these gaps 
   are structural, not random.
 **Tools:** Python (pandas, matplotlib), Tableau  
-**Code:** [Jupyter Notebook](#) | **Dashboard:** [Tableau Public — Unmet Mental Health Need During COVID-19](#)
+**Code:** [Jupyter Notebook](https://github.com/Lexie-s/Unmet-Mental-Health-Need-During-COVID-19) | **Dashboard:** [Tableau Public — Unmet Mental Health Need During COVID-19](https://public.tableau.com/app/profile/lexie.smith3341/viz/UnmetMentalHealthNeedDuringCOVID-19/UnmetMentalHealthNeed)
 
 ---
 
