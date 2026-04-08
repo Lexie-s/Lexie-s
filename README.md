@@ -63,7 +63,7 @@ My psychology background shapes how I approach analysis. I don't just ask what d
 
 **Key findings:**
 - PM2.5 pollution in Oregon has become more intense in recent years even as total exceedance day counts fluctuated
-- Klamath, Jackson, and Lane counties show the highest exposure risk when normalized by monitoring station count
+- Klamath County averaged 6.4 unhealthy days per year, which was more than three times higher than the next most impacted counties. Southern Oregon counties consistently show the highest exposure risk, driven by geography, wildfire proximity, and winter temperature inversions
 - Winter wood smoke inversions in valley communities account for more total unhealthy days than wildfire season when measured across the full 24-year period
 - April and May had zero unhealthy air days across the entire dataset, spring is Oregon's cleanest season
 **Tools:** Python, MySQL, Power BI, SQL
