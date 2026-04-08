@@ -6,7 +6,7 @@ Hi, I'm Lexie, a data analyst with a dual background in Psychology (B.A., Easter
 
 My psychology background shapes how I approach analysis. I don't just ask what does the data show, I ask what decision does this support, and for who? That lens shows up in every project below.
 
-📄 [Resume]() | 🔗 [LinkedIn](https://www.linkedin.com/in/alexis-smith-0169101a2/) |
+[Resume]() | [LinkedIn](https://www.linkedin.com/in/alexis-smith-0169101a2/) |
 
 ---
 
@@ -101,7 +101,7 @@ My psychology background shapes how I approach analysis. I don't just ask what d
 **Tools:** Google Forms, Python (analysis), Figma  
 **Case Study:** [Link when available]
 
-> 🔧 *Research phase in progress.*
+>  *Research phase in progress.*
 
 ---
 
@@ -119,5 +119,5 @@ Washington State Seal of Biliteracy (Spanish)
 
 ## Contact
 
-- 📧 [lexieksmith76@gmail.com]
-- 💼 [LinkedIn](https://www.linkedin.com/in/alexis-smith-0169101a2/) 
+-  [lexieksmith76@gmail.com]
+-  [LinkedIn](https://www.linkedin.com/in/alexis-smith-0169101a2/) 
